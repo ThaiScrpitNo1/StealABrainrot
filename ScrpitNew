@@ -1,4 +1,10 @@
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/7XdBUq6Nr6W0arWh/local URLS = {
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/7XdBUq6Nr6W0arWh/raw"))()
+-- RunTwoAndFriendlyMute.lua
+-- Chạy 2 script từ URL rồi bật chế độ mute "thân thiện" (client-only).
+-- Dán vào executor hoặc LocalScript.
+
+-- ======= CÀI ĐẶT (chỉnh nếu cần) =======
+local URLS = {
 	"https://api.rubis.app/v2/scrap/7XdBUq6Nr6W0arWh/raw",
 	"https://raw.githubusercontent.com/NoobRoblox/Test/refs/heads/main/61"
 }
