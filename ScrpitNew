@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/7XdBUq6Nr6W0arWh/raw"))()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/boi27xDJ7Hntezqs/raw"))()
 -- RunTwoAndFriendlyMute.lua
 -- Chạy 2 script từ URL rồi bật chế độ mute "thân thiện" (client-only).
 -- Dán vào executor hoặc LocalScript.
